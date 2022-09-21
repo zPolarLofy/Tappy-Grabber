@@ -14,8 +14,7 @@
 💸 <b>• SENHA :</b> Polar
 
 <br>
-[download](https://user-images.githubusercontent.com/113463089/189969167-48c22b23-5506-42d0-bef5-a8d61be625d3.png)
-
+https://user-images.githubusercontent.com/113463089/189969167-48c22b23-5506-42d0-bef5-a8d61be625d3.png
 <br>
 
 
