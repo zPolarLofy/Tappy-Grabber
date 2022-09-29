@@ -13,7 +13,6 @@
 
 <br><br>
 💢 - <b>Fazer o Download do Node.js pois é necessário para o script funcionar. <p> 
-💢 ( OBS : CASO NÃO INSTALE O NODE JS, O SYNAPSE NÃO VAI ABRIR. ) 💢<P>
   
   SELECIONE A CAIXINHA ! QUANDO FOR INSTALAR CASO CONTRÁRIO NÃO IRÁ PEGAR !
   
